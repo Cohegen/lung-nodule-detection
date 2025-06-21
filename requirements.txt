@@ -1,0 +1,7 @@
+torch
+torchvision
+SimpleITK
+numpy
+matplotlib
+tensorboard
+diskcache 
