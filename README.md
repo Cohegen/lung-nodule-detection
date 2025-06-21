@@ -170,11 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team for the deep learning framework
 - Medical imaging community for research insights
 
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername]
 
 ## 🔗 Related Links
 
